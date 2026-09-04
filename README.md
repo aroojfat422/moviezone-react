@@ -1,16 +1,81 @@
-# moviezone-react
+# MovieZone 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+MovieZone is a responsive movie browsing web application built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Featured movie hero section
+- Movie cards
+- Movie ratings and genres
+- Movie descriptions
+- Search functionality
+- Search using Enter key
+- Genre filtering
+- Popular movies filtering
+- Favorites functionality
+- Watch Now functionality
+- Video player modal
+- Movie information modal
+- Responsive design
+- Professional footer
+- Hover effects and interactive buttons
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Node.js
+- Git
+- GitHub
 
-## Expanding the Oxlint configuration
+## How to Run
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Clone the repository and install the dependencies:
+
+```bash
+npm install
+
+Start the development server:
+
+npm run dev
+
+Then open the local URL shown in the terminal.
+
+AI-Assisted Development
+
+AI was used as a development assistant during the implementation of MovieZone.
+
+AI helped with:
+
+React component structure
+React state management
+Search functionality
+Genre filtering
+Favorites functionality
+Modal implementation
+Responsive CSS
+Debugging and error correction
+Code improvement and refactoring
+
+The generated code was reviewed, tested, corrected, and manually improved during development.
+
+Manual Improvements
+
+Several changes were manually reviewed and improved after using AI-generated suggestions, including:
+
+Improving the movie card layout
+Making the movie grid responsive
+Refining the navigation bar
+Improving the hero section
+Adjusting modal responsiveness
+Improving button styling
+Fixing filtering logic
+Improving the favorites functionality
+Cleaning duplicate CSS
+Improving the overall visual design
+Project
+
+MovieZone was developed as an AI-assisted React development project.
